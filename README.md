@@ -11,3 +11,4 @@ my github will start looking more interesting. For now, this is a good checkpoin
 as I have not spent that much time in web development.
 # Credits
 The Odin Project <3
+[Source of image used](https://www.swtexture.com/2017/08/stone-pavers-paving-stones.html "Source of image used")
